@@ -10,7 +10,6 @@
 CMakeLists.txt
 cmake-build-debug
 .idea
-.vscode
 *.sw[a-z]
 *~
 
@@ -33,3 +32,7 @@ network_log.json
 network-audit-results.json
 
 .npmrc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
